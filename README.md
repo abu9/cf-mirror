@@ -1,11 +1,11 @@
 # AdySec CF拉平镜像站
-<a href="https://github.com/adysec/cf-mirror/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/adysec/cf-mirror?color=yellow&logo=riseup&logoColor=yellow&style=flat-square"></a>
-<a href="https://github.com/adysec/cf-mirror/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/adysec/cf-mirror?color=orange&style=flat-square"></a>
-<a href="https://github.com/adysec/cf-mirror/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/adysec/cf-mirror?color=red&style=flat-square"></a>
+<a href="https://github.com/adysec/mirror/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/adysec/mirror?color=yellow&logo=riseup&logoColor=yellow&style=flat-square"></a>
+<a href="https://github.com/adysec/mirror/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/adysec/mirror?color=orange&style=flat-square"></a>
+<a href="https://github.com/adysec/mirror/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/adysec/mirror?color=red&style=flat-square"></a>
 
 站点地址：<https://mirror.adysec.com/>
 
-项目地址：<https://github.com/adysec/cf-mirror>
+项目地址：<https://github.com/adysec/mirror>
 
 官方源可信度和稳定性最高，但众所周知的原因国内访问速度较慢，因此产生了清华源、中科大源、阿里源之类的一系列开源镜像站，有些资源需要换n个源才能把系统和软件更新完成，第三方源相对官方源软件版本更低，维护者也可能会夹带私货，洁癖患者难以忍受。
 
