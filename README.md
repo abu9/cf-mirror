@@ -48,6 +48,8 @@ KaOS，Deepin的官方源就在大陆，对于国内用户较为友好，但境�
 | OpenBSD      | https://mirror.adysec.com/system/openbsd      | https://mirrors.adysec.com/system/OpenBSD      | https://cdn.openbsd.org/pub/OpenBSD          |
 | opensuse     | https://mirror.adysec.com/system/opensuse     | https://mirrors.adysec.com/system/opensuse     | http://download.opensuse.org                 |
 | freebsd      | https://mirror.adysec.com/system/freebsd      | https://mirrors.adysec.com/system/freebsd      | https://download.freebsd.org                 |
+| freedos      | https://mirror.adysec.com/system/freedos      | https://mirrors.adysec.com/system/freedos      | https://mirror.math.princeton.edu/pub/freeDOS|
+| kylin        | https://mirror.adysec.com/system/kylin        | https://mirrors.adysec.com/system/kylin        | http://archive.kylinos.cn/kylin              |
 
 ## 编程语言
 
