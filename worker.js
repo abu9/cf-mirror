@@ -5,6 +5,9 @@ addEventListener('fetch', event => {
 const mirrors = new Map([
   ["/system/ubuntu/security", "http://security.ubuntu.com/ubuntu"],
   ["/system/ubuntu", "http://archive.ubuntu.com/ubuntu"],
+  ["/system/freedos", "https://mirror.math.princeton.edu/pub/freeDOS"],
+  ["/system/kylin/deb", "http://archive2.kylinos.cn/deb/kylin"],
+  ["/system/kylin", "http://archive.kylinos.cn/kylin"],
   ["/system/centos", "http://vault.centos.org"],
   ["/system/epel", "http://mirrors.kernel.org/fedora-epel"],
   ["/system/deepin", "https://community-packages.deepin.com/deepin"],
